@@ -1,0 +1,9 @@
+{
+    "name": "@src/product",
+    "version": "1.0.0",
+    "main": "index.json",
+    "dependencies": {
+        "@aws-sdk/client-dynamodb": "^3.540.0",
+        "@aws-sdk/util-dynamodb": "^3.540.0"
+    }
+}
